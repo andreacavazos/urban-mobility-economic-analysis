@@ -75,7 +75,7 @@ El archivo CSV integrado incluido en este repositorio permite consultar los dato
 - La muestra integrada contiene solo **15 ciudades**.
 - El análisis corresponde a **2024**; no permite evaluar cambios a lo largo del tiempo.
 - La correlación observada no implica causalidad y puede verse afectada por valores atípicos.
-- El cruce de fuentes se realizó con city y year; se recomienda verificar también las correspondencias de país en futuros refinamientos.
-- Las unidades exactas de jams_delay deben corroborarse en la documentación de origen antes de interpretarlo como minutos u otra unidad temporal.
+- El cruce de fuentes se realizó con "city" y "year"; se recomienda verificar también las correspondencias de país en futuros refinamientos.
+- Las unidades exactas de "jams_delay" deben corroborarse en la documentación de origen antes de interpretarlo como minutos u otra unidad temporal.
   
 *Proyecto de portafolio de análisis de datos. Elaborado con fines de aprendizaje y demostración de habilidades técnicas y analíticas.*
